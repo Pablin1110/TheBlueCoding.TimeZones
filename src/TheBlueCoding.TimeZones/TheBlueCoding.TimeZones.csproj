@@ -5,13 +5,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>TheBlueCoding.TimeZones</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>The Blue Coding</Authors>
     <Company>The Blue Coding</Company>
     <Title>TheBlueCoding Time Zones</Title>
     <Description>Timezone conversion and UTC date-range utilities for TheBlueCoding .NET microservices.</Description>
     <PackageTags>timezone;utc;datetime;microservices</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Pablin1110/TheBlueCoding.TimeZones</PackageProjectUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/Pablin1110/TheBlueCoding.TimeZones</RepositoryUrl>
   </PropertyGroup>
