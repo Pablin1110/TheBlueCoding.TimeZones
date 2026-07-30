@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>TheBlueCoding.TimeZones</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>The Blue Coding</Authors>
+    <Company>The Blue Coding</Company>
+    <Title>TheBlueCoding Time Zones</Title>
+    <Description>Timezone conversion and UTC date-range utilities for TheBlueCoding .NET microservices.</Description>
+    <PackageTags>timezone;utc;datetime;microservices</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/Pablin1110/TheBlueCoding.TimeZones</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
